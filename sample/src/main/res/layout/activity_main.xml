@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <com.appzgarden.OtpView
+        android:id="@+id/otpview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        app:cursorVisible="false"
+        app:forceKeyboard="false"
+        app:hint="-"
+        app:inputType="number"
+        app:password="false"
+        app:pinBackground="@drawable/otp_view_background"
+        app:pinHeight="40dp"
+        app:pinLength="6"
+        app:pinWidth="40dp" />
+
+<android.support.design.widget.TextInputLayout
+    android:id="@+id/textinputlayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"/>
+
+</LinearLayout>

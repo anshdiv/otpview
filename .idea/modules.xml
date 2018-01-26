@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OtpView.iml" filepath="$PROJECT_DIR$/OtpView.iml" />
+      <module fileurl="file://F:\Projects\doctor-app-development\OtpView\sample\app.iml" filepath="F:\Projects\doctor-app-development\OtpView\sample\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/otpview/otpview.iml" filepath="$PROJECT_DIR$/otpview/otpview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
+    </modules>
+  </component>
+</project>
