@@ -9,7 +9,7 @@ OTP View
 Usage
 -----
 
-Create an PayConfig object and set the values accordingly:
+Create an OtpView object and optionally you can pass Textinputlayout for showing error,implement the listners:
 ```java
    OtpView otpView= findViewById(R.id.otpview);
         TextInputLayout textInputLayout = findViewById(R.id.textinputlayout);// use this to set error
