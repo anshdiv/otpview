@@ -1,11 +1,10 @@
-package com.appzgarden.anshul;
+package com.appzgarden.sample;
 
 import android.support.design.widget.TextInputLayout;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 import com.appzgarden.OtpView;
-import com.appzgarden.anshul.R;
 
 public class MainActivity extends AppCompatActivity {
 

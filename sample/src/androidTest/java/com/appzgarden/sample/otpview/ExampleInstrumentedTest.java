@@ -1,4 +1,4 @@
-package com.appzgarden.anshul.otpview;
+package com.appzgarden.sample.otpview;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

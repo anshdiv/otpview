@@ -1,4 +1,4 @@
-package com.appzgarden.anshul.otpview;
+package com.appzgarden.sample.otpview;
 
 import org.junit.Test;
 
